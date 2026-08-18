@@ -6,11 +6,14 @@
 
 ゲーム内テキストの未翻訳・誤訳・不自然な表現を修正し、日本語で遊びやすくすることを目的としています。
 
-## 導入について
+## 導入方法
 
-MelonLoaderを使用して導入します。
+1. 『屍姫の夢 / Dream of Lady Zombie』にMelonLoaderを導入します。
+2. 最新のReleaseから配布用ZIPファイルをダウンロードして展開します。
+3. `DreamOfLadyZombieJPFix.dll` をゲームフォルダ内の `Mods` フォルダに入れます。
+4. ゲームを起動します。
 
-詳しい導入手順は後ほど追記します。
+`DreamOfLadyZombie_Localization_JP.csv` は翻訳内容の確認用として同梱しています。MODの動作には必要ありません。
 
 ## 既知の問題
 
