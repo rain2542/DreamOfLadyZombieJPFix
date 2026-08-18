@@ -50,7 +50,7 @@ namespace DreamOfLadyZombieJPFix
             new Dictionary<string, string>()
             {
                 { "UI/按任意键开始游戏", "任意のキーを押して開始" },
-                { "UI/官方QQ群", "公式Discord" },
+                { "UI/官方QQ群", "QQ" },
                 { "IE_Info/2049", "任意の敵が撃破されたあと、屍姫に<#Exp#>経験値を与える。" },
                 { "IE_Info/2052", "ターン開始時、すべての味方の「霊圧」+<#BuffCount#>。" },
                 { "IE_Info/2053", "デバフを付与されている敵が撃破されたあと、すべての味方の「霊圧」+<#BuffCount#>。" },
