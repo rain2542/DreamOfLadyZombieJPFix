@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>F:\SteamLibrary\steamapps\common\the dreamland of lady zombie\MelonLoader\net6\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>F:\SteamLibrary\steamapps\common\the dreamland of lady zombie\DreamOfLadyZombie_Data\Managed\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MelonLoader">
+      <HintPath>F:\SteamLibrary\steamapps\common\the dreamland of lady zombie\MelonLoader\net6\MelonLoader.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>F:\SteamLibrary\steamapps\common\the dreamland of lady zombie\DreamOfLadyZombie_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

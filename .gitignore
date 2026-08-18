@@ -1,0 +1,15 @@
+bin/
+obj/
+
+codex-diff.txt
+
+DreamOfLadyZombie_Localization(3).csv
+DreamOfLadyZombie_Localization.csv
+DreamOfLadyZombie_Localization_MOD_fixed_scoped_updated_7*.csv
+DreamOfLadyZombie_Localization_MOD_fixed_scoped_updated_8.csv
+DreamOfLadyZombie_Localization_MOD_fixed_scoped_updated_9.csv
+DreamOfLadyZombie_Localization_MOD_fixed_scoped_updated_10.csv
+DreamOfLadyZombie_Localization_MOD_fixed_scoped_updated_11.csv
+
+DreamOfLadyZombie_NewUnitCandidates_report.txt
+DreamOfLadyZombie_UnitCandidates_report.txt
